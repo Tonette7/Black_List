@@ -1,3 +1,25 @@
+# Domínios principais do YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+
+# Streaming e carregamento de vídeo
+googlevideo.com
+*.googlevideo.com
+
+# CDN de imagens e miniaturas
+ytimg.com
+*.ytimg.com
+
+# Player embutido e cookies
+youtube-nocookie.com
+
+# Subdomínios randômicos usados em vídeos
+r*.sn*.googlevideo.com
+redirector.googlevideo.com
+manifest.googlevideo.com
+
 youtube.com
 www.youtube.com
 m.youtube.com
